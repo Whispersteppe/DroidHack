@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroidHack.Testing.Repositor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroidHack.Common", "DroidHack.Common\DroidHack.Common.csproj", "{D7E8C430-4D0D-43B7-9DA2-C88BEB7ADE5D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroidHack.Testing.DroidEditor", "Testing\DroidHack.Testing.DroidEditor\DroidHack.Testing.DroidEditor.csproj", "{003C687B-AC75-472E-AFF9-DB7CCF169147}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -64,12 +66,17 @@ Global
 		{D7E8C430-4D0D-43B7-9DA2-C88BEB7ADE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7E8C430-4D0D-43B7-9DA2-C88BEB7ADE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7E8C430-4D0D-43B7-9DA2-C88BEB7ADE5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{003C687B-AC75-472E-AFF9-DB7CCF169147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{003C687B-AC75-472E-AFF9-DB7CCF169147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{003C687B-AC75-472E-AFF9-DB7CCF169147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{003C687B-AC75-472E-AFF9-DB7CCF169147}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{1D36BACE-A43A-45E2-B3BA-17A43F4EEFD3} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{003C687B-AC75-472E-AFF9-DB7CCF169147} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DCEE8CA9-B0E4-4095-91ED-D47344764970}

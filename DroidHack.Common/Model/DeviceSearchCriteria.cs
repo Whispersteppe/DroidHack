@@ -1,4 +1,6 @@
-﻿namespace DroidHack.Common.Model;
+﻿using DroidHack.Common.Enums;
+
+namespace DroidHack.Common.Model;
 
 public interface DeviceSearchCriteria
 {
